@@ -5,3 +5,4 @@ i am learning git
 learning more
 any problems?
 Creating a new branch is quick AND simple
+this is another branch named dev
