@@ -4,4 +4,8 @@ wo zhun bei qifei la
 i am learning git
 learning more
 any problems?
-Creating a new branch is quick & simple 
+<<<<<<< HEAD
+Creating a new branch is quick and simple 
+=======
+Creating a new branch is quick and simple
+>>>>>>> featurel
